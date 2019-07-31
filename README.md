@@ -5,4 +5,4 @@ The aplication draws oblique projection chart.
 In this program we can modify parameters such as: angle, initial velocity and gravity.
 
 How to start the program:
-1. execute a "oblique_projection.jar" (by double click) (address: oblique_projection/dist/oblique_projection.jar)
+1. execute a "oblique_projection.jar" file (by double click) (address: oblique_projection/dist/oblique_projection.jar)
